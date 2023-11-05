@@ -1,0 +1,10 @@
+Tahapan yang akan dilakukan dalam melakukan penelitian peramalan persediaan stok terbagi menjadi 4 bagian tahapan. Metode penelitian memberikan penjelasan mengenai tahapan alur penelitian yang akan dilewati terdiri atas analisis kebutuhan, pengumpulan data, perancangan sistem, pengujian dan penilaian sistem.
+
+A. Analisis Kebutuhan
+Tahap analisis bertujuan untuk memperoleh berbagai informasi yang dibutuhkan dan memperoleh gambaran konsep sistem aplikasi yang akan dibangun. Pada tahapan ini, diawali dengan melakukan observasi terhadap kebutuhan dalam pembuatan aplikasi yang terdiri dari kebutuhan perangkat keras, kebutuhan perangkat lunak, dan kebutuhan fungsional.
+B. Pengumpulan data
+Pengumpulan data merupakan alur yang penting dalam melakukan sebuah penelitian karena pengolahan hasil dan pembahasan dapat dilakukan dengan adanya data dari proses pengumpulan data. Data yang dikumpulkan dapat berupa data kualitatif dan data kuantitatif.
+C. Perancangan Sistem
+Perancangan sistem digunakan sebagai gambaran atau perencanaan pada sebuah sistem yang akan dibuat. tahapan ini bertujuan untuk menghasilkan sistem yang sesuai dengan kebutuhan dan diharapkan mampu memperjelas alur. Dalam perancangan sistem peramalan persediaan stok barang terdapat beberapa hal yang perlu dipersiapkan yaitu use case diagram, activity diagram, class diagram, dan sequence diagram. 
+D. Pengujian dan penilaian sistem
+Pengujian dan penilaian sistem dilakukan untuk mengetahui apakah sistem sejalan dengan kebutuhan yang telah ditentukan sebelumnya. Pengujian sistem dilakukan dengan menggunakan metode black-box dan penilaian menggunakan SUS(System Usability Scale). 
