@@ -1,14 +1,15 @@
 # Riset-Inform
 
-Repositories Riset-Inform digunakan mahasiswa sebagai media pembelajaran dan penumpulan tugas mata kuliah Riset Informatika
+# Repositories Riset-Inform digunakan mahasiswa sebagai media pembelajaran dan penumpulan tugas mata kuliah Riset Informatika
 
+## Identitas Mahasiswa
 Edi Sugiyanto
 20081010188
 Prodi Informatika
 Fakultas Ilmu Komputer
 UPN "Veteran" Jawa timur
 
-Our Content,
+## Our Content,
 
 - Topik Penelitian : https://github.com/EdiSugiyant0/Riset-Inform/blob/4773dfad5a004c5bfdbd728c6a60fa1116eeb097/Topik%20Penelitian
 - Metodologi Penelitian : https://github.com/EdiSugiyant0/Riset-Inform/blob/4773dfad5a004c5bfdbd728c6a60fa1116eeb097/Metodologi%20Penelitian
