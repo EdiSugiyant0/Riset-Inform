@@ -1,5 +1,5 @@
 # Riset-Inform
-Repositories Riset-Inform digunakan mahasiswa sebagai media pembelajaran dan penumpulan tugas mata kuliah Riset Informatika
+Repositories Riset-Inform digunakan mahasiswa sebagai media pembelajaran dan pengumpulan tugas mata kuliah Riset Informatika
 
 ## Identitas Mahasiswa
 - Edi Sugiyanto
@@ -16,34 +16,41 @@ Repositories Riset-Inform digunakan mahasiswa sebagai media pembelajaran dan pen
 - Tugas 1 : https://github.com/EdiSugiyant0/Riset-Inform/blob/4773dfad5a004c5bfdbd728c6a60fa1116eeb097/20081010188_Edi%20Sugiyanto_Tugas%201.pdf
 - Contoh Jurnal Metode : https://github.com/EdiSugiyant0/Riset-Inform/blob/4773dfad5a004c5bfdbd728c6a60fa1116eeb097/Contoh%20Jurnal%20Metode.pdf
 - Contoh Jurnal Metodologi : https://github.com/EdiSugiyant0/Riset-Inform/blob/4773dfad5a004c5bfdbd728c6a60fa1116eeb097/Contoh%20Jurnal%20Metodologi.pdf
-- RMC (Research Model Canvas) : https://github.com/EdiSugiyant0/Riset-Inform/blob/40e83de6ba08fbce90cca8cd0d7e61eb254b7796/RMC.pdf
+- RMC (Research Model Canvas) : https://github.com/EdiSugiyant0/Riset-Inform/blob/a24d2d9e474c4f3f810a4b7b199e19bb2a5b8e74/RMC%20(Research%20Model%20Canvas).pdf
+- Referensi :
+- Dataset : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/dataset%20penjualan.csv
+- Kode Program : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/single%20moving%20averange%20.ipynb
+- Analisis : 
+- Gambar Gambar Pendukung :
+- Video :
+- Draft Paper :
 
 ## Judul Penelitian
-   - Komparasi Metode Single Moving Average dan Fuzzy Tsukamoto dalam Sistem Informasi Penjualan untuk Peralatan Stok Varian Minuman Herbal.
+   - Impelementasi Metode Single Moving Average dalam Sistem Informasi Penjualan untuk Peralatan Stok Varian Minuman Herbal.
 
 ## Masalah/Gap
-   - Kurangnya penelitian yang membandingkan efektivitas metode Single Moving Average dan Fuzzy Tsukamoto dalam mengelola stok varian minuman herbal pada sistem informasi penjualan.
-
+   - Masih jarang adanya penerapan efektivitas metode Single Moving Average dalam mengelola stok varian minuman herbal pada sistem informasi penjualan di perusahaan yang masih dalam proses berkembang.
+   - Tidak optimalnya prediksi penjualan pada Sistem Informasi Penjualan yang digunakan saat ini untuk peralatan stok minuman herbal.
+   - Kurangnya pemanfaatan metode peramalan yang dapat memberikan hasil yang lebih akurat dan real-time.
 ## Teori
    - a. Single Moving Average:
-        - Konsep dasar dan penerapannya dalam manajemen stok.
-   - b. Fuzzy Tsukamoto:
-        - Prinsip dasar logika fuzzy dan aplikasinya dalam pengambilan keputusan.
+        - Review literatur tentang Metode Single Moving Average (SMA)
+        - aplikasinya dalam Konsep peramalan dan prediksi Sistem Informasi Penjualan.
 ## Tujuan
-   - Mengidentifikasi metode yang lebih efektif antara Single Moving Average dan Fuzzy Tsukamoto dalam manajemen stok varian minuman herbal.
-   - Meningkatkan pemahaman tentang aplikasi metode-metode tersebut dalam konteks sistem informasi penjualan.
+   - Mengevaluasi efektivitas implementasi Metode Single Moving Average dalam meningkatkan akurasi prediksi penjualan minuman herbal.
+   - Meningkatkan pemahaman tentang aplikasi metode tersebut dalam konteks sistem informasi penjualan.
 
 ## Kebaruan
-   - Penggabungan metode-metode tersebut untuk mengatasi permasalahan spesifik dalam manajemen stok varian minuman herbal, memberikan kontribusi baru dalam bidang ini.
+   - Penerapan metode tersebut untuk mengatasi permasalahan spesifik dalam manajemen stok varian minuman herbal, memberikan kontribusi baru pada perusahaan.
+   - Integrasi real-time prediksi penjualan untuk meningkatkan manajemen stok dan pengambilan keputusan.
 
 ## Metode
-   - a. Pengumpulan Data:
-        - Data penjualan dan stok varian minuman herbal dari periode tertentu.
-   - b. Analisis Metode:
-        - Implementasi Single Moving Average dan Fuzzy Tsukamoto pada data yang dikumpulkan.
-   - c. Perbandingan Hasil:
-        - Evaluasi kinerja kedua metode dengan mempertimbangkan faktor-faktor seperti akurasi prediksi dan efisiensi manajemen stok.
-   - d. Validasi:
-        - Menguji validitas hasil penelitian dengan membandingkan temuan dengan literatur terkait.
+   - Pengumpulan Data: Data penjualan dan stok varian minuman herbal dari periode tertentu.
+   - Analisis Metode: Implementasi Single Moving Averageo pada data yang dikumpulkan menggunakan matrik pengujian.
+   - Perbandingan Hasil: Evaluasi kinerja kedua metode dengan mempertimbangkan faktor-faktor seperti akurasi prediksi dan efisiensi manajemen stok.
+   - Validasi: Menguji validitas hasil penelitian dengan membandingkan temuan dengan literatur terkait.
+          
+## Referensi 
+   -  
 
 # Semoga sukses selalu!
