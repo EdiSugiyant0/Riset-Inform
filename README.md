@@ -20,8 +20,8 @@ Repositories Riset-Inform digunakan mahasiswa sebagai media pembelajaran dan pen
 - Referensi :
 - Dataset : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/dataset%20penjualan.csv
 - Kode Program : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/single%20moving%20averange%20.ipynb
-- Analisis : 
-- Gambar Gambar Pendukung :
+- Analisis : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/Analisis%20Hasil.pdf
+- Gambar Gambar Pendukung : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/Hasil%20SMA.png
 - Video :
 - Draft Paper :
 
