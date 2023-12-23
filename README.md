@@ -17,13 +17,13 @@ Repositories Riset-Inform digunakan mahasiswa sebagai media pembelajaran dan pen
 - Contoh Jurnal Metode : https://github.com/EdiSugiyant0/Riset-Inform/blob/4773dfad5a004c5bfdbd728c6a60fa1116eeb097/Contoh%20Jurnal%20Metode.pdf
 - Contoh Jurnal Metodologi : https://github.com/EdiSugiyant0/Riset-Inform/blob/4773dfad5a004c5bfdbd728c6a60fa1116eeb097/Contoh%20Jurnal%20Metodologi.pdf
 - RMC (Research Model Canvas) : https://github.com/EdiSugiyant0/Riset-Inform/blob/a24d2d9e474c4f3f810a4b7b199e19bb2a5b8e74/RMC%20(Research%20Model%20Canvas).pdf
-- Referensi :
+- Referensi : https://docs.google.com/document/d/1KfKLb4tw99YX_tlJsv5d-mGGEnAYm0ZdKC2qrQniwIs/edit?usp=sharing
 - Dataset : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/dataset%20penjualan.csv
 - Kode Program : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/single%20moving%20averange%20.ipynb
 - Analisis : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/Analisis%20Hasil.pdf
 - Gambar Gambar Pendukung : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/Hasil%20SMA.png
 - Video :
-- Draft Paper :
+- Draft Paper : https://docs.google.com/document/d/1KfKLb4tw99YX_tlJsv5d-mGGEnAYm0ZdKC2qrQniwIs/edit?usp=sharing
 
 ## Judul Penelitian
    - Impelementasi Metode Single Moving Average dalam Sistem Informasi Penjualan untuk Peralatan Stok Varian Minuman Herbal.
@@ -33,7 +33,7 @@ Repositories Riset-Inform digunakan mahasiswa sebagai media pembelajaran dan pen
    - Tidak optimalnya prediksi penjualan pada Sistem Informasi Penjualan yang digunakan saat ini untuk peralatan stok minuman herbal.
    - Kurangnya pemanfaatan metode peramalan yang dapat memberikan hasil yang lebih akurat dan real-time.
 ## Teori
-   - a. Single Moving Average:
+   - Single Moving Average:
         - Review literatur tentang Metode Single Moving Average (SMA)
         - aplikasinya dalam Konsep peramalan dan prediksi Sistem Informasi Penjualan.
 ## Tujuan
