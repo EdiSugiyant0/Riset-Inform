@@ -22,7 +22,7 @@ Repositories Riset-Inform digunakan mahasiswa sebagai media pembelajaran dan pen
 - Kode Program : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/single%20moving%20averange%20.ipynb
 - Analisis : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/Analisis%20Hasil.pdf
 - Gambar Gambar Pendukung : https://github.com/EdiSugiyant0/Riset-Inform/blob/main/Hasil%20SMA.png
-- Video :
+- Video : https://drive.google.com/drive/folders/1CXuFKHuVTKULbfqRNkRar2X0d1QS7ObQ?usp=drive_link
 - Draft Paper : https://docs.google.com/document/d/1KfKLb4tw99YX_tlJsv5d-mGGEnAYm0ZdKC2qrQniwIs/edit?usp=sharing
 
 ## Judul Penelitian
@@ -49,8 +49,5 @@ Repositories Riset-Inform digunakan mahasiswa sebagai media pembelajaran dan pen
    - Analisis Metode: Implementasi Single Moving Averageo pada data yang dikumpulkan menggunakan matrik pengujian.
    - Perbandingan Hasil: Evaluasi kinerja kedua metode dengan mempertimbangkan faktor-faktor seperti akurasi prediksi dan efisiensi manajemen stok.
    - Validasi: Menguji validitas hasil penelitian dengan membandingkan temuan dengan literatur terkait.
-          
-## Referensi 
-   -  
 
 # Semoga sukses selalu!
